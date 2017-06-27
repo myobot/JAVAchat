@@ -8,3 +8,7 @@
   * use chatdb
   * source chatdb.sql
 * 写了一个ppt格式的文档描述了，数据结构，聊天过程等
+## Some Photo
+![](https://github.com/myobot/JAVAchat/blob/master/image/1.png)
+![](https://github.com/myobot/JAVAchat/blob/master/image/2.png)
+![](https://github.com/myobot/JAVAchat/blob/master/image/3.png)
